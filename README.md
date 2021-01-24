@@ -13,4 +13,4 @@ Step 1 visulize and earthquake data set from website
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) for data set used in this challenge
 
 Step 2 - Import and Visualize the data
-
+map was created using Leaflet that plots all of th earthquake from data set based on their longitude and latitude.
