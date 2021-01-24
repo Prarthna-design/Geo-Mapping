@@ -16,4 +16,4 @@ Step 2 - Import and Visualize the data
 map was created using Leaflet that plots all of th earthquake from data set based on their longitude and latitude.
 code was added to style marker in color
 code was added to syle the marker in size
-
+code was added to style the markers in shade of colors identifying magnetude
