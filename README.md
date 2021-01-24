@@ -17,3 +17,4 @@ map was created using Leaflet that plots all of th earthquake from data set base
 code was added to style marker in color
 code was added to syle the marker in size
 code was added to style the markers in shade of colors identifying magnetude
+code was added to insert tag including magnitude of earthquake, date and space
