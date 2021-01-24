@@ -9,3 +9,6 @@ After creating and cloning new Repository leaflet-challange new folder Leaflet-S
 All needed files to run html and Javascripts were added by adding extensions to VS.
 
 Step 1 visulize and earthquake data set from website
+
+The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) for data set used in this challenge
+
