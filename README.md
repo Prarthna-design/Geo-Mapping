@@ -5,3 +5,5 @@ Welcome to the United States Geological Survey, or USGS for short! The USGS is r
 The USGS is interested in building a new set of tools that will allow them visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet.
 
 After creating and cloning new Repository leaflet-challange new folder Leaflet-Step-1 was created from starter code provided.
+
+All needed files to run html and Javascripts were added by adding extensions to VS.
