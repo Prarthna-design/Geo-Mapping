@@ -14,3 +14,4 @@ The USGS provides earthquake data in a number of different formats, updated ever
 
 Step 2 - Import and Visualize the data
 map was created using Leaflet that plots all of th earthquake from data set based on their longitude and latitude.
+code was added to style marker in color
