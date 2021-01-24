@@ -7,3 +7,5 @@ The USGS is interested in building a new set of tools that will allow them visua
 After creating and cloning new Repository leaflet-challange new folder Leaflet-Step-1 was created from starter code provided.
 
 All needed files to run html and Javascripts were added by adding extensions to VS.
+
+Step 1 visulize and earthquake data set from website
